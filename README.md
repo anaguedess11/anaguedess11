@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou a Ana Guedes
 
-Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia Informática, a especializar-me no ramo de **Sistemas de Informação** no ISEC (Instituto Superior de Engenharia de Coimbra).
+Bem-vindo(a) ao meu perfil! Sou estudante de 3º ano de Engenharia Informática, a especializar-me no ramo de **Sistemas de Informação** no ISEC (Instituto Superior de Engenharia de Coimbra).
 
 Sou apaixonada por perceber como a tecnologia pode estruturar e resolver problemas complexos, com um interesse especial na forma como os dados são geridos e processados.
 
