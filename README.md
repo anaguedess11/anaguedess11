@@ -8,9 +8,9 @@ Sou apaixonada por perceber como a tecnologia pode estruturar e resolver problem
 
 ### 🔭 Sobre Mim
 
-* 🌱 Atualmente, estou a focar-me em **Sistemas de Informação**, explorando a ligação entre a arquitetura de software e a gestão eficiente de bases de dados.
-* 🤔 Considero-me uma pessoa com um forte **espírito analítico** (bastante crítica sobre os assuntos!) e uma enorme **vontade de aprender** e perceber o "porquê" por trás das tecnologias.
-* 🚀 O meu objetivo é aplicar os meus conhecimentos para construir sistemas robustos, escaláveis e que façam sentido para o negócio.
+* Atualmente, estou a focar-me em **Sistemas de Informação**, explorando a ligação entre a arquitetura de software e a gestão eficiente de bases de dados.
+* Considero-me uma pessoa com um forte **espírito analítico** (bastante crítica sobre os assuntos!) e uma enorme **vontade de aprender** e perceber o "porquê" por trás das tecnologias.
+* O meu objetivo é aplicar os meus conhecimentos para construir sistemas robustos, escaláveis e que façam sentido para o negócio.
 
 ---
 
